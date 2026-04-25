@@ -9,7 +9,7 @@ import com.baozi.baozi_store.repository.PedidoRepository;
 
 
 @RestController
-@RequestMapping("/pedido")
+@RequestMapping("/pedidos")
 
 public class PedidoController {
 
