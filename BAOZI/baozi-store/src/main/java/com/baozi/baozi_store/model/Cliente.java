@@ -50,7 +50,7 @@ public class Cliente {
         this.nome=nome;
     }
 
-    public LocalDate getDataCadastro(){
+    public LocalDate getClienteDesde(){
         return clienteDesde;
     }
     public void setClienteDesde(LocalDate clienteDesde){
