@@ -2,7 +2,7 @@
 
 Projeto desenvolvido para a disciplina de Java, com o objetivo de criar uma API REST utilizando Spring Boot.
 
----
+
 
 ## 📌 Descrição
 
@@ -15,7 +15,6 @@ O sistema permite o gerenciamento de:
 
 A API foi desenvolvida utilizando Spring Boot, JPA e MySQL.
 
----
 
 ## ⚙️ Tecnologias Utilizadas
 
@@ -25,7 +24,6 @@ A API foi desenvolvida utilizando Spring Boot, JPA e MySQL.
 - MySQL
 - Maven
 
----
 
 ## 📂 Estrutura do Projeto
 
@@ -33,7 +31,6 @@ A API foi desenvolvida utilizando Spring Boot, JPA e MySQL.
 - **repository** → Comunicação com o banco
 - **controller** → Endpoints da API
 
----
 
 ## 🚀 Endpoints
 
@@ -51,13 +48,6 @@ A API foi desenvolvida utilizando Spring Boot, JPA e MySQL.
 - POST /pedidos → Cadastrar pedido
 - GET /pedidos → Listar pedidos
 
----
 
-## 📦 Exemplos de Requisição
 
-### Criar Cliente
-```json
-{
-  "nome": "Mariely123456",
-  "clienteDesde": "2026-04-25"
-}
+
