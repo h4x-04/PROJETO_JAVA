@@ -2,8 +2,6 @@
 
 Projeto desenvolvido para a disciplina de Java, com o objetivo de criar uma API REST utilizando Spring Boot.
 
-
-
 ## 📌 Descrição
 
 A Baozi Store é uma pequena loja fictícia que vende pão chinês (Baozi).  
